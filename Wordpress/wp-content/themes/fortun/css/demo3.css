@@ -1,0 +1,68 @@
+/*  Demo 2 Styles  */
+body, .nav-menu a, .tab-nav-menu a, .default-typo, .vc_tta-title-text {
+	font-family: 'ArconRegular', sans-serif;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, .section-sub-heading-text, .testimonial-quote-cite, .testimonial-quote-designation, .primary-typo {
+	font-family: 'Work sans', sans-serif;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+	color: #000000;
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+.divide-line span {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.strip-header-menu .site-info .footer-nav-menu a {
+    font-size: 16px;
+    font-weight: 400;
+    padding: 3px 0;
+    letter-spacing: 0;
+    display: inline-block;
+}
+
+.footer-text {
+    letter-spacing: 0;
+}
+
+.agni-slide-title {
+	margin-bottom: 2%;
+}
+.agni-slide-description p{
+	letter-spacing: 0;
+}
+.agni-slide-buttons a{
+    padding: 17px 38px;
+}
+.agni-section-heading .section-heading-text {
+    margin-bottom: 10px;
+}
+
+.member-title, .member-bottom-caption-title{
+	font-size: 18px;
+}
+
+.wpcf7-form .wpcf7-submit{
+	font-weight: 400;
+	background-color: #000000;
+}
+.wpcf7-form .wpcf7-submit:hover, .wpcf7-form .wpcf7-submit:active, .wpcf7-form .wpcf7-submit:focus{
+	color: #000000;
+}
+.service-box-style-1 i, .service-box-style-1 .service-box-text{
+	font-size: 45px;
+}
+
+.portfolio-title{
+    font-size: 24px;
+}
+
+.portfolio-category li, .portfolio-bottom-caption-category li{
+	font-size: 90%;
+}

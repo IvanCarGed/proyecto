@@ -1,0 +1,65 @@
+/*  Demo 2 Styles  */
+body, .nav-menu a, .tab-nav-menu a, .default-typo, .vc_tta-title-text {
+	font-family: 'Lora', sans-serif;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, blockquote, .agni-slide-description, .section-sub-heading-text, .testimonial-quote-cite, .primary-typo {
+	font-family: 'Lora', sans-serif;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, .blog-post .entry-title a, .blog .posted-on a {
+	color: #232e3c;
+}
+
+.btn{
+	padding: 16px 28px;
+	font-weight: 700;
+}
+.btn-lg {
+	padding: 18px 36px;
+}
+.btn-sm {
+	padding: 12px 22px;
+}
+.btn-xs {
+	padding: 4px 14px;
+}
+.owl-dots{
+	margin-top: 4%;
+}
+
+.agni-slide-buttons a{
+	font-size: 16px;
+    padding: 15px 28px;
+}
+
+.divide-line span {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.agni-section-heading .section-heading-text{
+	margin-bottom: 20px
+}
+.service-box-style-3-icon {
+    width: 23%;
+}
+
+.testimonial-quote-cite{
+    font-weight: 700;
+}
+.testimonial-quote-text{
+	font-style: italic;
+	line-height: 1.9;
+}
+.testimonial-style-3 .testimonial-quote-text:before{
+	font-weight: 700;
+}
+
+.rtb-booking-form .reservation legend, .rtb-booking-form .contact legend{
+    font-weight: 700;
+}
+.rtb-booking-form .contact a{
+	font-weight: 700;
+}
+.agni-section-heading .section-sub-heading-text {
+    font-weight: 500;
+}

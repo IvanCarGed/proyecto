@@ -1,0 +1,70 @@
+/*  Demo 2 Styles  */
+body, .nav-menu a, .tab-nav-menu a, .default-typo, .vc_tta-title-text {
+	font-family: 'Hind', sans-serif;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, blockquote, .agni-slide-description, .section-sub-heading-text, .testimonial-quote-cite, .primary-typo {
+	font-family: 'Karla', sans-serif;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+	color: #000000;
+}
+
+blockquote{
+	font-weight: 700;
+	padding: 11px 0 11px 70px;
+	letter-spacing: -0.05em;
+}
+blockquote span{
+    top: -40px;
+}
+
+.blockquote-reverse, blockquote.pull-right {
+    padding-right: 70px;
+}
+
+.agni-slide-title h2{
+	letter-spacing: -0.07em;
+}
+
+.agni-slide-description{
+	letter-spacing: -0.025em;
+}
+
+.agni-slide-buttons a{
+	font-size: 16px;
+	padding: 17px 40px
+}
+
+.white .mile-icon i{
+	color: #ffffff;
+}
+
+.divide-line span {
+    margin-top: 26px;
+    margin-bottom: 36px;
+}
+.agni-section-heading .section-heading-text{
+	margin-bottom: 25px
+}
+
+.service-box-style-2-text {
+    padding-left: 20px;
+}
+
+.mile-icon{
+	line-height: 1;
+}
+
+.testimonial-quote-cite{
+    font-weight: 700;
+    line-height: 1.4;
+    letter-spacing: -0.05em;
+}
+
+.testimonial-quote-designation{
+	font-weight: 400;
+    letter-spacing: 0;
+    font-weight: 400;
+    margin-bottom: 0;
+}

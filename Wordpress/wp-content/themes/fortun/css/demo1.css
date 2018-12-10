@@ -1,0 +1,20 @@
+/*  Demo 1 Styles  */
+.service-box .service-box-heading, .mile-count .count, .portfolio-title, .portfolio-bottom-caption-title, .member-title, .portfolio-project-details .project-title, .product-title, .woocommerce .product-meta .price, .single-product-description .price, .product-category-title, .widget-title{
+	font-family: Poppins, Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    letter-spacing: -0.03em;
+}
+
+ul.nav-menu-content >li >a, div.nav-menu-content ul > li > a {
+    font-size: 15px;
+}
+.portfolio-title{
+	font-size: 20px;
+}
+.portfolio-bottom-caption-title {
+    font-size: 18px;
+}
+.woocommerce .wc-tabs, .woocommerce .page-cart-summary .product-name, .woocommerce .page-cart-summary .shop_table thead th, .woocommerce .page-cart-summary .shop_table .product-subtotal, .woocommerce .page-cart-calculation .cart-collaterals .cart_totals th, .woocommerce .woocommerce-checkout-review-order-table thead th, .woocommerce .woocommerce-checkout-review-order-table tfoot th, .woocommerce-MyAccount-navigation li, .woocommerce .my_account_orders.shop_table thead th{
+    font-weight: 600;
+    letter-spacing: -0.03em;
+}

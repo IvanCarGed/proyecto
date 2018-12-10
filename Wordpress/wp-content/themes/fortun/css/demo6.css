@@ -1,0 +1,36 @@
+/*  Demo 2 Styles  */
+body, .nav-menu a, .tab-nav-menu a, .default-typo, .vc_tta-title-text {
+	font-family: 'Karla', sans-serif;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, blockquote, .agni-page-header-additional-text, .section-sub-heading-text, .testimonial-quote-cite, .primary-typo {
+	font-family: 'Poppins', serif;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+	color: #000000;
+}
+
+.btn-sm, .btn-xs, .progress-bar{
+	font-size: 15px;
+}
+
+.agni-slide-title{
+	margin-bottom: 2%;
+}
+
+.divide-line span {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.agni-section-heading .section-heading-text{
+	margin-bottom: 24px
+}
+
+.agni-icon i{
+	border-width: 1px;
+}
+
+.testimonial-quote-cite{
+    font-size: 18px;
+    font-weight: 400;
+}

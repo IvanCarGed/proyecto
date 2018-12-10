@@ -1,0 +1,176 @@
+/*  Demo 13 Styles  */
+body, .nav-menu a, .tab-nav-menu a, .default-typo, .vc_tta-title-text {
+	font-family: 'Poppins', sans-serif;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, blockquote, .section-sub-heading-text, .testimonial-quote-text, .testimonial-quote-cite, .primary-typo {
+	font-family: 'Playfair Display', sans-serif;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, .blog-post .entry-title a, .blog .posted-on a {
+	color: #000000;
+}
+
+.btn {
+	font-size: 16px;
+}
+.btn-sm {
+	font-size: 14px; 
+}
+.btn {
+	padding: 16px 26px;
+}
+.btn-lg {
+	padding: 19px 34px;
+}
+.btn-sm {
+	padding: 12px 22px;
+}
+.btn-xs {
+	padding: 5px 16px;
+}
+
+/*
+.btn-sm, .btn-xs, .progress-bar{
+	font-size: 15px;
+}
+
+.agni-page-header-title{
+	font-size: 54px;
+}
+.agni-page-header-title h2{
+}
+.agni-page-header-additional-text {
+    font-size: 22px;
+}*/
+/*
+.agni-page-header-btn{
+	font-size: 16px;
+    padding: 15px 30px;
+}
+
+.white .mile-icon i{
+	color: #ffffff;
+}
+*/
+.agni-slide-title{
+	margin-bottom: 2.5%;
+}
+.agni-slide-title em{
+	font-style: italic;
+}
+
+.agni-slide-buttons a{
+	font-size: 16px;
+	padding: 17px 32px;
+}
+
+.divide-line span {
+    margin-top: 36px;
+    margin-bottom: 36px;
+}
+.agni-section-heading .section-heading-text{
+	margin-bottom: 15px
+}
+.service-box-style-2-icon {
+    width: 20%;
+}
+/*
+.mile-icon{
+	line-height: 1;
+}
+*/
+
+.pricing-cost .pricing-interval{
+	letter-spacing: 0;
+}
+
+.agni-icon i{
+	border-width: 1px;
+}
+
+.testimonial-quote-text{
+	font-size: 24px;
+	font-weight: 400;
+    line-height: 1.9;
+    letter-spacing: 0;
+}
+/*.testimonial-style-3 .testimonial-quote-text:before{
+	font-weight: 700;
+}
+*/
+/*
+.call-to-action-heading{
+	font-size: 32px;
+}
+.nav-tabs li{
+	font-size: 16px;
+}*/
+/*
+.testimonial-quote-designation{
+	font-weight: 400;
+    letter-spacing: 0;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+/*.tab-nav-menu-content > li > a{
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+
+.strip-header-menu .site-info .footer-nav-menu a {
+    font-size: 16px;
+    font-weight: 400;
+    padding: 3px 0;
+    letter-spacing: 0;
+    display: inline-block;
+}
+
+.footer-text {
+    letter-spacing: 0;
+}*/
+/*
+.agni-slider .slide-title {
+    font-size: 120px;
+    margin-bottom: 20px;
+}
+.agni-slides .slide-content a{
+	margin-top: 30px;
+	padding: 18px 40px;
+	font-size: 20px;
+	border-radius: 60px;
+}
+
+.primary-typo{
+    letter-spacing: -0.02em;
+}
+.default-typo{
+    letter-spacing: 0;
+}
+
+.wpcf7-form .wpcf7-submit{
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+}*/
+/*.agni-section-heading .section-heading-text {
+    margin-bottom: 10px;
+}
+
+.wpcf7-form .wpcf7-submit{
+	font-weight: 400;
+	background-color: #000000;
+}
+.wpcf7-form .wpcf7-submit:hover, .wpcf7-form .wpcf7-submit:active, .wpcf7-form .wpcf7-submit:focus{
+	color: #000000;
+}*/
+/*
+.white .mile-icon i{
+    color: #ffffff;
+}
+
+.vc_tta-title-text {
+	font-weight: 600;
+	font-size: 18px;
+	letter-spacing: -0.02em;
+}*/

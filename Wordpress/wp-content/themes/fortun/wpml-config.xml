@@ -1,0 +1,16 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">portfolio</custom-type>
+		<custom-type translate="1">team</custom-type>
+		<custom-type translate="1">clients</custom-type>
+		<custom-type translate="1">testimonials</custom-type>
+		<custom-type translate="1">agni_slides</custom-type>
+		<custom-type translate="1">revslider</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">types</taxonomy>
+		<taxonomy translate="1">team_types</taxonomy>
+		<taxonomy translate="1">client_types</taxonomy>
+		<taxonomy translate="1">quote_types</taxonomy>
+	</taxonomies>
+</wpml-config>

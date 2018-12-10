@@ -1,0 +1,60 @@
+/*  Demo 2 Styles  */
+body, .default-typo, .vc_tta-title-text {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, .nav-menu a, .tab-nav-menu a, .section-sub-heading-text, .testimonial-quote-cite, .testimonial-quote-designation, .primary-typo {
+	font-family: 'Karla', sans-serif;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+	color: #342827;
+}
+
+.nav-menu a, .tab-nav-menu a{
+	font-weight: 600;
+	letter-spacing: 0;
+}
+
+.agni-slide-buttons {
+    margin-top: 4%;
+}
+.agni-slide-buttons a{
+	padding: 17px 36px;
+}
+.agni-slide-content-inner .agni-slide-divideline span{
+	margin-bottom: 20px;
+}
+
+.primary-typo{
+    letter-spacing: -0.02em;
+}
+.default-typo{
+    letter-spacing: 0;
+}
+
+.wpcf7-form .wpcf7-submit{
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+}
+
+.portfolio-bottom-caption-title{
+	font-size: 20px;
+}
+
+.agni-section-heading .section-heading-text {
+    margin-bottom: 25px;
+}
+
+.agni-section-heading .section-sub-heading-text {
+    font-weight: 400;
+}
+.white .mile-icon i{
+    color: #ffffff;
+}
+
+.vc_tta-title-text {
+	font-weight: 600;
+	font-size: 18px;
+	letter-spacing: -0.02em;
+}

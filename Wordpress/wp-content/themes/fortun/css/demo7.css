@@ -1,0 +1,52 @@
+/*  Demo 2 Styles  */
+body, .nav-menu a, .tab-nav-menu a, .default-typo, .vc_tta-title-text {
+	font-family: 'Hind', sans-serif;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, blockquote, .agni-page-header-additional-text, .section-sub-heading-text, .testimonial-quote-cite, .primary-typo {
+	font-family: 'Hind', sans-serif;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+	color: #000000;
+}
+
+.btn-sm, .btn-xs, .progress-bar{
+	font-size: 15px;
+}
+
+
+.agni-slide-description p{
+	font-weight: 400;
+}
+.agni-slide-buttons a{
+	padding: 16px 30px;
+}
+
+.agni-section-heading .section-heading-text{
+	margin-bottom: 20px
+}
+.service-box-style-2-icon {
+    width: 27%;
+}
+
+.agni-icon i{
+	border-width: 1px;
+}
+
+.testimonial-quote-cite{
+    font-size: 20px;
+    font-weight: 600;
+}
+.testimonial-style-1 .testimonial-quote-text{
+	font-size: 24px;
+}
+.call-to-action-heading{
+	font-size: 32px;
+}
+.nav-tabs li{
+	font-size: 16px;
+}
+
+.agni-slide-title h2{
+	line-height: 1.2;
+}

@@ -1,0 +1,51 @@
+/*  Demo 2 Styles  */
+body, .nav-menu a, .tab-nav-menu a, .default-typo, .vc_tta-title-text {
+	font-family: 'Playfair Display', sans-serif;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, blockquote, .agni-slide-description, .section-sub-heading-text, .testimonial-quote-cite, .primary-typo {
+	font-family: 'Playfair Display', sans-serif;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, .blog-post .entry-title a, .blog .posted-on a {
+	color: #000000;
+}
+
+.btn, .btn-lg, .btn-sm, .btn-xs {
+	text-transform: uppercase;
+}
+.btn {
+	padding: 17px 28px;
+}
+.btn-lg {
+	padding: 20px 36px;
+}
+.btn-sm {
+	padding: 14px 22px;
+}
+.btn-xs {
+	padding: 4px 14px;
+}
+
+.tab-nav-menu a{
+	font-size: 14px;
+}
+ul.tab-nav-menu-content >li >a, div.tab-nav-menu-content ul > li > a{
+	font-size: 16px;
+}
+
+.divide-line span {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.agni-section-heading .section-heading-text{
+	margin-bottom: 15px
+}
+
+.agni-icon i{
+	border-width: 1px;
+}
+
+.testimonial-quote-text{
+	font-size: 16px;
+	line-height: 1.9;
+}
